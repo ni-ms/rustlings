@@ -8,5 +8,5 @@
 
 
 fn main() {
-    println!("Hello there!")
+    print!("Hello there!")
 }
